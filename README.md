@@ -1,0 +1,2 @@
+# FoodMenu
+A Django-based web application that simulates a restaurant menu. The front-end of the app presents information on food items (name, description, price, the name of the user who put it on the app, and a picture of the food). Users can register with a username, email address, and a password and use those things to login to the app. Food information is entered into the app through a form. Both food and user information are stored in SQLite databases. The app also has a Bootstrap-based navigation bar with links to the index page, the "add item" page and a login page.
